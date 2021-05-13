@@ -21,7 +21,11 @@
 
 ---
 
+### Publications
 
+- [Mapping the Supernovae Driven Winds of the Large Magellanic Cloud in Hα Emission I](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...62C/abstract)
+
+---
 
 
 ---
