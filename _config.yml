@@ -3,7 +3,7 @@ logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ph.D. and MBA Student at Texas Christian University 
   <br><br>
-  [My Resume](/pdf/ciampaDrewResume.pdf)
+  <a href="/pdf/ciampaDrewResume.pdf">My Resume</a> 
   <br><br>
   <a href="https://www.linkedin.com/in/drewciampa/">View My LinkedIn Profile</a> 
   
