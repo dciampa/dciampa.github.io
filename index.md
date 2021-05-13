@@ -4,8 +4,10 @@
 
 ### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- Texas Christian Univeristy MBA, Finance
+- Texas Christian Univeristy PhD, Physics
+- Texas Christian Univeristy MS, Physics
+- Stony Brook University BS, Physics and Astronomy
 
 ---
 
