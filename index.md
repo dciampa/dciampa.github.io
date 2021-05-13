@@ -22,7 +22,8 @@
 ### Publications
 
 - [Mapping the Supernovae Driven Winds of the Large Magellanic Cloud in Hα Emission I](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...62C/abstract)
-- [coauthor: Exploring Hydrodynamic Instabilities along the Infalling High-velocity Cloud Complex A](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..154B/abstract)
+- [Exploring Hydrodynamic Instabilities along the Infalling High-velocity Cloud Complex A](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..154B/abstract)
+
 ---
 
 
