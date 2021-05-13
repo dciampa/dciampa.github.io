@@ -16,8 +16,6 @@
 - [Transitive Citation](https://github.com/dciampa/transitivecitation)
 - [Programming Course](https://github.com/dciampa/PHY50733)
 - [Stellar Astrophysics](https://github.com/dciampa/PHY50743)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
