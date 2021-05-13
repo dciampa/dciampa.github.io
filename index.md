@@ -4,10 +4,10 @@
 
 ### Education
 
-- Texas Christian Univeristy MBA, Finance
-- Texas Christian Univeristy PhD, Physics
-- Texas Christian Univeristy MS, Physics
-- Stony Brook University BS, Physics and Astronomy
+- Texas Christian Univeristy MBA, Finance exp. 2022
+- Texas Christian Univeristy PhD, Physics exp. 2021
+- Texas Christian Univeristy MS, Physics 2018
+- Stony Brook University BS, Physics and Astronomy 2016
 
 ---
 
