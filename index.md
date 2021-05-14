@@ -16,6 +16,13 @@
 - [Transitive Citation](https://github.com/dciampa/transitivecitation)
 - [Programming Course](https://github.com/dciampa/PHY50733)
 - [Stellar Astrophysics](https://github.com/dciampa/PHY50743)
+- [Yahoo API Fantasy Baseball](https://github.com/dciampa)
+
+---
+
+### Skills
+
+- Python, Leadership, Analytics, Data Reduction
 
 ---
 
