@@ -34,11 +34,11 @@
 ---
 ### Awards and Honors
 
--2020 Texas Space Consortium Award Winner 
--2020 TCU Graduate Teaching Award
--2019 TCU SRS Best Poster/Presentation Award
--Golden Key Honors Society Member
--Awarded over $8,500 in grant funding from various agencies
+- 2020 Texas Space Consortium Award Winner 
+- 2020 TCU Graduate Teaching Award
+- 2019 TCU SRS Best Poster/Presentation Award
+- Golden Key Honors Society Member
+- Awarded over $8,500 in grant funding from various agencies
 
 ---
 
