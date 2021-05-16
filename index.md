@@ -22,7 +22,7 @@
 
 ### Skills
 
-- Python, Leadership, Analytics, Data Reduction
+- Python, Critical thinking, Leadership, Writing, Analytics, Data Reduction
 
 ---
 
