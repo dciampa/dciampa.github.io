@@ -5,6 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="/pdf/ciampaDrewResume.pdf">My Resume</a> 
   <br><br>
+  [a relative link](/posts/firstpost)
+  <br><br>
   <a href="/posts/firstpost">My Blog</a> 
   <br><br>
   <a href="https://www.linkedin.com/in/drewciampa/">View My LinkedIn Profile</a> 
