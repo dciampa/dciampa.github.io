@@ -1,6 +1,6 @@
 ## Blog
 
-**Project description:** Taking breaks, social hours, different environments, agile workflow with small goals, frequent meetings, etc.
+**Project description:** Taking breaks, social hours, different environments, agile workflow with small goals, frequent meetings, work on whats interesting to you at that moment, but not too much, etc.
 
 ---
 
