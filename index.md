@@ -22,7 +22,13 @@
 
 ### Skills
 
-- Python, Critical thinking, Leadership, Writing, Analytics, Data Reduction
+- Python, SQL, Critical Thinking, Leadership, Writing, Analytics, Data Reduction
+
+---
+
+### Courses
+
+- Options and Futures Markets, New Product Development, Financial Management, Business Analytics
 
 ---
 
