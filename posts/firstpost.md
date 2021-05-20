@@ -1,12 +1,12 @@
  <div class="header">
-  <h2>Blog Name</h2>
+  <h2>My Blog</h2>
 </div>
 
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Dec 7, 2017</h5>
+      <h2>Agile Workflow</h2>
+      <h5>How to make progress little by little, May 19, 2021</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p>Some text..</p>
     </div>
