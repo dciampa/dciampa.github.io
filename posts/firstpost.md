@@ -1,7 +1,41 @@
-## My Blog
+ <div class="header">
+  <h2>Blog Name</h2>
+</div>
 
-**Project description:** Taking breaks, social hours, different environments, agile workflow with small goals, frequent meetings, work on whats interesting to you at that moment, but not too much, etc.
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>TITLE HEADING</h2>
+      <h5>Title description, Dec 7, 2017</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+    </div>
+    <div class="card">
+      <h2>TITLE HEADING</h2>
+      <h5>Title description, Sep 2, 2017</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>About Me</h2>
+      <div class="fakeimg" style="height:100px;">Image</div>
+      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    </div>
+    <div class="card">
+      <h3>Popular Post</h3>
+      <div class="fakeimg">Image</div><br>
+      <div class="fakeimg">Image</div><br>
+      <div class="fakeimg">Image</div>
+    </div>
+    <div class="card">
+      <h3>Follow Me</h3>
+      <p>Some text..</p>
+    </div>
+  </div>
+</div>
 
----
-
-A lot of where my thought about small goals and work on whats least resistive sometimes comes from Hacking Growth book by Sean Ellis and Morgan Brown.
+<div class="footer">
+  <h2>Footer</h2>
+</div> 
