@@ -29,13 +29,5 @@
       <div class="fakeimg">Image</div><br>
       <div class="fakeimg">Image</div>
     </div>
-    <div class="card">
-      <h3>Follow Me</h3>
-      <p>Some text..</p>
-    </div>
   </div>
-</div>
-
-<div class="footer">
-  <h2>Footer</h2>
 </div>
