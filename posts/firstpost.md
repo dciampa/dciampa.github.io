@@ -1,6 +1,6 @@
  <div class="header">
   <h1>My Blog</h1>
-  <img src="images/IMG_3800.png" alt="Header Image">
+  <img src="../images/IMG_3800.png" alt="Header Image">
  </div>
 
 <div class="row">
