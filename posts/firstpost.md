@@ -1,16 +1,13 @@
-<header>Welcome to a webpage written entirely in Vanilla <strike>JS</strike> HTML.</header>
-
 <!-- Heading -->
-<h1>THE ROCKET BLOG FROM THE FUTURE 🚀</h1>
-<p>My thoughts and ideas on rockets and the science behind them. <a href="https://about.me/vaibhav_khulbe" target="_blank">Learn more</a>.</p>
+<h1>A FEW THINGS I LEARNED ALONG THE WAY 👣</h1>
+<p>My thoughts and ideas on grad school and the steps we take to get through it.</p>
 <br>
 
 <!-- Article -->
-<img src="https://images.pexels.com/photos/796206/pexels-photo-796206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Space shuttle"/>
+<img src="../images/IMG_3800.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Bryce Canyon"/>
 <kbd>FEATURED</kbd>
-<h4><a href="#">Lorem ipsum dolor sit, amet consectetur adipisicing elit</a></h4>
-<p>Optio, beatae! Aut quis id voluptate ullam repellendus. Et sit, ipsa, non consequuntur magnam quaerat temporibus at officiis ab, expedita molestiae liber...</p>
-<a href="#"><button><b>READ MORE</b></button></a>
+<h4><a href="#">How to make progress little by little</a></h4>
+<p>Here is some text about how I like to work and found the most progressive way to work.</p>
 <br><br>
 
 <!-- Article break -->
