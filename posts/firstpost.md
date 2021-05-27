@@ -1,14 +1,35 @@
- <div class="header">
-  <h1>My Blog</h1>
-  <img src="../images/IMG_3800.png" alt="Header Image">
- </div>
+<header>Welcome to a webpage written entirely in Vanilla <strike>JS</strike> HTML.</header>
 
-<div class="row">
-  <div class="leftcolumn">
-    <div class="card">
-      <h2>Agile Workflow</h2>
-      <h5>How to make progress little by little, May 19, 2021</h5>
-      <p>Here is some text about how I like to work and found the most progressive way to work.</p>
-    </div>
-  </div>
-</div>
+<!-- Heading -->
+<h1>THE ROCKET BLOG FROM THE FUTURE 🚀</h1>
+<p>My thoughts and ideas on rockets and the science behind them. <a href="https://about.me/vaibhav_khulbe" target="_blank">Learn more</a>.</p>
+<br>
+
+<!-- Article -->
+<img src="https://images.pexels.com/photos/796206/pexels-photo-796206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Space shuttle"/>
+<kbd>FEATURED</kbd>
+<h4><a href="#">Lorem ipsum dolor sit, amet consectetur adipisicing elit</a></h4>
+<p>Optio, beatae! Aut quis id voluptate ullam repellendus. Et sit, ipsa, non consequuntur magnam quaerat temporibus at officiis ab, expedita molestiae liber...</p>
+<a href="#"><button><b>READ MORE</b></button></a>
+<br><br>
+
+<!-- Article break -->
+<details>
+  <summary>What was the secret behind this mission?</summary>
+  <img src="https://media.giphy.com/media/NdKVEei95yvIY/giphy.gif" alt="Secret GIF">
+  <p>Okay, go watch The Office.</p>
+</details>
+<br><br>
+
+<!-- Article -->
+<kbd>SPACE</kbd> <kbd>LUNA</kbd> <kbd>PRESSURE</kbd>
+<h4><a href="#">Ad aspernatur, nemo unde neque laboriosam sequi?</a></h4>
+<p>Nullam in lorem nec mi euismod pretium in eu erat. Nunc lacus tellus, sodales molestie sem id, tempor elementum turpis. Auris dapibus mi vitae libero luctus iaculis non non turpis. Mauris molestie ultrices...</p>
+<a href="#"><button><b>READ MORE</b></button></a>
+<br><br>
+
+<!-- Article break -->
+<blockquote>
+  “The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.” <i> - Konstantin Tsiolkovsky</i>
+</blockquote>
+<br><br>
