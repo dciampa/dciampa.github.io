@@ -21,5 +21,6 @@
 <!-- Article break -->
 <blockquote>
   “The imagination of nature is far, far greater than the imagination of man.” <i> - Richard P. Feynman</i>
+<!--  “The first principle is that you must not fool yourself — and you are the easiest person to fool.” <i> - Richard P. Feynman</i> -->
 </blockquote>
 <br><br>
