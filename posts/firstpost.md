@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h1>A FEW THINGS I LEARNED ALONG THE WAY 👣</h1>
 <p>My thoughts and ideas on grad school and the steps taken to survive.</p>
-<br>
+<br style="line-height:0px;" />
 
 <!-- Article -->
 <img src="../images/IMG_3800.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Bryce Canyon"/>
