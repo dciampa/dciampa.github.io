@@ -11,13 +11,14 @@
 
 ---
 
-### Research Projects
+### Projects
 
 - [Transitive Citation](https://github.com/dciampa/transitivecitation)
 - [Programming Course](https://github.com/dciampa/PHY50733)
 - [Stellar Astrophysics](https://github.com/dciampa/PHY50743)
 - [Yahoo API Fantasy Baseball](https://github.com/dciampa)
-
+- [Growth Hacking Slide Deck](/pdf/MiventureGrowthHackingSlideDeck.pdf)
+- <a href="/pdf/MiventureGrowthHackingSlideDeck.pdf">Growth Hacking Slide Deck</a>
 ---
 
 ### Skills
@@ -40,7 +41,7 @@
 ---
 ### Awards and Honors
 
-- 2020 Texas Space Consortium Award Winner 
+- 2020 Texas Space Consortium Award Winner
 - 2020 TCU Graduate Teaching Award
 - 2019 TCU SRS Best Poster/Presentation Award
 - Golden Key Honors Society Member
