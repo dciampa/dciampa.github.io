@@ -18,7 +18,7 @@
 - [Stellar Astrophysics](https://github.com/dciampa/PHY50743)
 - [Yahoo API Fantasy Baseball](https://github.com/dciampa)
 - [Growth Hacking Slide Deck](/pdf/MiventureGrowthHackingSlideDeck.pdf)
-- <a href="/pdf/MiventureGrowthHackingSlideDeck.pdf">Growth Hacking Slide Deck</a>
+
 ---
 
 ### Skills
