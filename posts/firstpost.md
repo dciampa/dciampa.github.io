@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1>A FEW THINGS I LEARNED ALONG THE WAY 👣</h1>
+<h1>A FEW THINGS I LEARNED ALONG THE WAY</h1>
 <p>My thoughts and ideas on grad school and the steps taken to survive.</p>
 <br style="line-height:0px;" />
 

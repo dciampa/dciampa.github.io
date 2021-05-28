@@ -14,11 +14,10 @@
 ### Projects
 
 - [Transitive Citation](https://github.com/dciampa/transitivecitation)
-- [Programming Course](https://github.com/dciampa/PHY50733)
-- [Stellar Astrophysics](https://github.com/dciampa/PHY50743)
 - [Yahoo API Fantasy Baseball](https://github.com/dciampa)
 - [Growth Hacking Slide Deck](/pdf/MiventureGrowthHackingSlideDeck.pdf)
-
+- [Programming Course](https://github.com/dciampa/PHY50733)
+- [Stellar Astrophysics](https://github.com/dciampa/PHY50743)
 ---
 
 ### Skills
@@ -27,9 +26,9 @@
 
 ---
 
-### Courses
+### Certificates and Courses
 
-- Options and Futures Markets, New Product Development, Financial Management, Business Analytics
+- Google Analytics Beginner and Advanced certificate, Options and Futures Markets, New Product Development, Financial Management, Business Analytics
 
 ---
 
