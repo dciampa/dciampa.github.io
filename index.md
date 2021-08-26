@@ -5,7 +5,7 @@
 ### Education
 
 - Texas Christian Univeristy MBA, Finance exp. 2022
-- Texas Christian Univeristy PhD, Physics exp. 2021
+- Texas Christian Univeristy PhD, Physics 2021
 - Texas Christian Univeristy MS, Physics 2018
 - Stony Brook University BS, Physics and Astronomy 2016
 
@@ -35,6 +35,7 @@
 
 ### Publications
 
+- Physical Conditions of the Leading Arm Complex with Cloudy Modeling (in prep)
 - [Mapping the Supernovae Driven Winds of the Large Magellanic Cloud in Hα Emission I](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...62C/abstract)
 - [Exploring Hydrodynamic Instabilities along the Infalling High-velocity Cloud Complex A](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..154B/abstract)
 
